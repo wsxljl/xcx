@@ -1,0 +1,40 @@
+<html>
+<head>
+    <meta charset="utf-8">
+	<title>css</title>
+	<style>
+        div {width: 200px;
+              background:#ccc;
+          }
+       .ab {color:
+            font-weight:bold;
+            font-size:14px;
+            font-family:宋体;
+               }
+        .c li {color: #636362;
+             font-size:12px;
+			}
+
+
+	</style>
+</head>
+<body>
+   <div>
+      	<ul class="c">
+      		<li class="ab" style="color:#ff7300; ">家用电器</li>
+      		<li>大家电</li>
+      		<li>洗衣机</li>
+      		<li>电冰箱</li>
+      		<li>平板电视</li>.
+        </ul>
+        <ul  class="c">
+   	   	   <li class="ab" style="color:#ff7300;">日用百货</li>
+   	   	   <li>肥皂</li>
+   	   	   <li>洗衣粉</li>
+   	   	   <li>纸巾</li>
+   	   	   <li>洗发水</li>
+       </ul>
+   </div>
+
+</body>
+</html>
